@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abeel</h1>
 <h3 align="center">A passionate Full Stack Developer from Lahore, Punjab Pakistan. Happy to learn new technologies and frameworks</h3>
-
+<img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
