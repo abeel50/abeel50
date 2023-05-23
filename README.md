@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abeel</h1>
-<h3 align="center">A passionate Full Stack Developer from Lahore, Punjab Pakistan. Happy to learn new technologies and frameworks</h3>
+<h3 align="center">A passionate Full Stack Developer from Lahore, Punjab Pakistan :pakistan:. Happy to learn new technologies and frameworks</h3>
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 ## Who Am I? 🤠
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abeel50.github.io/portfolio/](https://abeel50.github.io/portfolio/)
 
-- 💬 Ask me about **Angular, NodeJS, React, Python**
+- 💬 Ask me about **Angular, NodeJS, React, Python, MongoDB**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dYlJwiNjcGh5RAUDaTI-d5QkcwPtOY1e/view](https://drive.google.com/file/d/1dYlJwiNjcGh5RAUDaTI-d5QkcwPtOY1e/view)
 
