@@ -4,17 +4,10 @@
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development 
+- 👩‍💻 Working on Web Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
-- 📫 How to reach me : [sujata@jsmastery.pro](mailto:sujata@jsmastery.pro)
-- 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
-    - Overthinks thinking to not to overthink 🙂
-    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
-
 <br>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeel50&label=Profile%20views&color=0e75b6&style=plastic" alt="abeel50" /> </p>
 
