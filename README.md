@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,nodejs,python,angular,linux,pnpm,aws,express,graphql,mongodb,postgres,firebase,materialui,sass,git,postman,vscode,figma,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,nodejs,python,cpp,angular,react,redux,linux,npm,aws,express,graphql,mongodb,dynamodb,mysql,firebase,materialui,sass,tailwind,bootstrap,vite,git,postman,vscode,figma,&theme=dark)](https://skillicons.dev)
 
 ### Coding Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abeel50&show_icons=true&locale=en&layout=donut&theme=dark" alt="abeel50" /></p>
